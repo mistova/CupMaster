@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 2662daddeb7896842ae559d88467d4a5
+timeCreated: 1573965133
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: leftArm1_LoResHand
+    100004: leftFinger1_Joint1
+    100006: leftFinger1_Joint2
+    100008: leftFinger1_Joint3
+    100010: leftFinger1_Metacarpal
+    100012: leftFinger2_Joint1
+    100014: leftFinger2_Joint2
+    100016: leftFinger2_Joint3
+    100018: leftFinger2_Metacarpal
+    100020: leftFinger3_Joint1
+    100022: leftFinger3_Joint2
+    100024: leftFinger3_Joint3
+    100026: leftFinger3_Metacarpal
+    100028: LeftHand_ROOT
+    100030: leftThumb1_Joint1
+    100032: leftThumb1_Joint2
+    100034: leftThumb1_Joint3
+    100036: Toon_Left_Hand
+    400000: //RootNode
+    400002: leftArm1_LoResHand
+    400004: leftFinger1_Joint1
+    400006: leftFinger1_Joint2
+    400008: leftFinger1_Joint3
+    400010: leftFinger1_Metacarpal
+    400012: leftFinger2_Joint1
+    400014: leftFinger2_Joint2
+    400016: leftFinger2_Joint3
+    400018: leftFinger2_Metacarpal
+    400020: leftFinger3_Joint1
+    400022: leftFinger3_Joint2
+    400024: leftFinger3_Joint3
+    400026: leftFinger3_Metacarpal
+    400028: LeftHand_ROOT
+    400030: leftThumb1_Joint1
+    400032: leftThumb1_Joint2
+    400034: leftThumb1_Joint3
+    400036: Toon_Left_Hand
+    4300000: Toon_Left_Hand
+    7400000: Left Single Fist
+    7400002: Left Single Grab
+    7400004: Left Single Index Point
+    7400006: Left Single Middle
+    7400008: Left Single Pinky
+    7400010: Left Single Thumb
+    9500000: //RootNode
+    13700000: Toon_Left_Hand
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Left Single Fist
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: LeftHand_ROOT
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger1_Metacarpal
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger1_Metacarpal/leftFinger1_Joint1
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger1_Metacarpal/leftFinger1_Joint1/leftFinger1_Joint2
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger1_Metacarpal/leftFinger1_Joint1/leftFinger1_Joint2/leftFinger1_Joint3
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger2_Metacarpal
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger2_Metacarpal/leftFinger2_Joint1
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger2_Metacarpal/leftFinger2_Joint1/leftFinger2_Joint2
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger2_Metacarpal/leftFinger2_Joint1/leftFinger2_Joint2/leftFinger2_Joint3
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger3_Metacarpal
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger3_Metacarpal/leftFinger3_Joint1
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger3_Metacarpal/leftFinger3_Joint1/leftFinger3_Joint2
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger3_Metacarpal/leftFinger3_Joint1/leftFinger3_Joint2/leftFinger3_Joint3
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftThumb1_Joint1
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftThumb1_Joint1/leftThumb1_Joint2
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftThumb1_Joint1/leftThumb1_Joint2/leftThumb1_Joint3
+        weight: 1
+      - path: Toon_Left_Hand
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Left Single Grab
+      takeName: Take 001
+      firstFrame: 15
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: LeftHand_ROOT
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger1_Metacarpal
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger1_Metacarpal/leftFinger1_Joint1
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger1_Metacarpal/leftFinger1_Joint1/leftFinger1_Joint2
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger1_Metacarpal/leftFinger1_Joint1/leftFinger1_Joint2/leftFinger1_Joint3
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger2_Metacarpal
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger2_Metacarpal/leftFinger2_Joint1
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger2_Metacarpal/leftFinger2_Joint1/leftFinger2_Joint2
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger2_Metacarpal/leftFinger2_Joint1/leftFinger2_Joint2/leftFinger2_Joint3
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger3_Metacarpal
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger3_Metacarpal/leftFinger3_Joint1
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger3_Metacarpal/leftFinger3_Joint1/leftFinger3_Joint2
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger3_Metacarpal/leftFinger3_Joint1/leftFinger3_Joint2/leftFinger3_Joint3
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftThumb1_Joint1
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftThumb1_Joint1/leftThumb1_Joint2
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftThumb1_Joint1/leftThumb1_Joint2/leftThumb1_Joint3
+        weight: 1
+      - path: Toon_Left_Hand
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Left Single Index Point
+      takeName: Take 001
+      firstFrame: 30
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: LeftHand_ROOT
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger1_Metacarpal
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger1_Metacarpal/leftFinger1_Joint1
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger1_Metacarpal/leftFinger1_Joint1/leftFinger1_Joint2
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger1_Metacarpal/leftFinger1_Joint1/leftFinger1_Joint2/leftFinger1_Joint3
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger2_Metacarpal
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger2_Metacarpal/leftFinger2_Joint1
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger2_Metacarpal/leftFinger2_Joint1/leftFinger2_Joint2
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger2_Metacarpal/leftFinger2_Joint1/leftFinger2_Joint2/leftFinger2_Joint3
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger3_Metacarpal
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger3_Metacarpal/leftFinger3_Joint1
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger3_Metacarpal/leftFinger3_Joint1/leftFinger3_Joint2
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger3_Metacarpal/leftFinger3_Joint1/leftFinger3_Joint2/leftFinger3_Joint3
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftThumb1_Joint1
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftThumb1_Joint1/leftThumb1_Joint2
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftThumb1_Joint1/leftThumb1_Joint2/leftThumb1_Joint3
+        weight: 1
+      - path: Toon_Left_Hand
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Left Single Middle
+      takeName: Take 001
+      firstFrame: 45
+      lastFrame: 55
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: LeftHand_ROOT
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger1_Metacarpal
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger1_Metacarpal/leftFinger1_Joint1
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger1_Metacarpal/leftFinger1_Joint1/leftFinger1_Joint2
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger1_Metacarpal/leftFinger1_Joint1/leftFinger1_Joint2/leftFinger1_Joint3
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger2_Metacarpal
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger2_Metacarpal/leftFinger2_Joint1
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger2_Metacarpal/leftFinger2_Joint1/leftFinger2_Joint2
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger2_Metacarpal/leftFinger2_Joint1/leftFinger2_Joint2/leftFinger2_Joint3
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger3_Metacarpal
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger3_Metacarpal/leftFinger3_Joint1
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger3_Metacarpal/leftFinger3_Joint1/leftFinger3_Joint2
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger3_Metacarpal/leftFinger3_Joint1/leftFinger3_Joint2/leftFinger3_Joint3
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftThumb1_Joint1
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftThumb1_Joint1/leftThumb1_Joint2
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftThumb1_Joint1/leftThumb1_Joint2/leftThumb1_Joint3
+        weight: 1
+      - path: Toon_Left_Hand
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Left Single Pinky
+      takeName: Take 001
+      firstFrame: 60
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: LeftHand_ROOT
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger1_Metacarpal
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger1_Metacarpal/leftFinger1_Joint1
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger1_Metacarpal/leftFinger1_Joint1/leftFinger1_Joint2
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger1_Metacarpal/leftFinger1_Joint1/leftFinger1_Joint2/leftFinger1_Joint3
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger2_Metacarpal
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger2_Metacarpal/leftFinger2_Joint1
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger2_Metacarpal/leftFinger2_Joint1/leftFinger2_Joint2
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger2_Metacarpal/leftFinger2_Joint1/leftFinger2_Joint2/leftFinger2_Joint3
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger3_Metacarpal
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger3_Metacarpal/leftFinger3_Joint1
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger3_Metacarpal/leftFinger3_Joint1/leftFinger3_Joint2
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger3_Metacarpal/leftFinger3_Joint1/leftFinger3_Joint2/leftFinger3_Joint3
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftThumb1_Joint1
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftThumb1_Joint1/leftThumb1_Joint2
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftThumb1_Joint1/leftThumb1_Joint2/leftThumb1_Joint3
+        weight: 1
+      - path: Toon_Left_Hand
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Left Single Thumb
+      takeName: Take 001
+      firstFrame: 75
+      lastFrame: 85
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: LeftHand_ROOT
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger1_Metacarpal
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger1_Metacarpal/leftFinger1_Joint1
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger1_Metacarpal/leftFinger1_Joint1/leftFinger1_Joint2
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger1_Metacarpal/leftFinger1_Joint1/leftFinger1_Joint2/leftFinger1_Joint3
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger2_Metacarpal
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger2_Metacarpal/leftFinger2_Joint1
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger2_Metacarpal/leftFinger2_Joint1/leftFinger2_Joint2
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger2_Metacarpal/leftFinger2_Joint1/leftFinger2_Joint2/leftFinger2_Joint3
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger3_Metacarpal
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger3_Metacarpal/leftFinger3_Joint1
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger3_Metacarpal/leftFinger3_Joint1/leftFinger3_Joint2
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftFinger3_Metacarpal/leftFinger3_Joint1/leftFinger3_Joint2/leftFinger3_Joint3
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftThumb1_Joint1
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftThumb1_Joint1/leftThumb1_Joint2
+        weight: 1
+      - path: LeftHand_ROOT/leftArm1_LoResHand/leftThumb1_Joint1/leftThumb1_Joint2/leftThumb1_Joint3
+        weight: 1
+      - path: Toon_Left_Hand
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
